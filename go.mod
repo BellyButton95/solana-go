@@ -1,4 +1,4 @@
-module github.com/BellyButton95/solana-go
+module github.com/gagliardetto/solana-go
 
 go 1.16
 
@@ -43,3 +43,5 @@ require (
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	google.golang.org/api v0.29.0
 )
+
+replace github.com/gagliardetto/solana-go => github.com/BellyButton95/solana-go v0.0.0-20240311134322-0434ebb3d23e
