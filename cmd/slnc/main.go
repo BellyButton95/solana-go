@@ -15,7 +15,7 @@
 package main
 
 import (
-	"github.com/gagliardetto/solana-go/cmd/slnc/cmd"
+	"github.com/BellyButton95/solana-go/cmd/slnc/cmd"
 )
 
 var version = "dev"

@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/BellyButton95/solana-go"
 )
 
 // Vault represents a `solana-go` wallet.  It contains the encrypted

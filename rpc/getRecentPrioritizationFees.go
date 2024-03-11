@@ -17,7 +17,7 @@ package rpc
 import (
 	"context"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/BellyButton95/solana-go"
 )
 
 // GetRecentPrioritizationFees returns a list of prioritization fees from recent blocks.
